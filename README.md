@@ -160,7 +160,7 @@ python setup.py install
 
 离开pytorch 的源文件路径，打开ipython
 
-![测试](https://github.com/HongdaChen/gpu-mpi-pytorch/003.png)
+![测试](https://github.com/HongdaChen/gpu-mpi-pytorch/blog/master/003.png)
 
 
 ## （二/二）GeForce GT                                             gcc-7.5
@@ -244,11 +244,11 @@ bash pytorch_vision_clone.sh
   
 - 2。nvidia-driver版本要和cuda版本兼容
   
- ![nvidia-driver版本要和cuda版本对照表](https://github.com/HongdaChen/gpu-mpi-pytorch/001.png)
+ ![nvidia-driver版本要和cuda版本对照表](https://github.com/HongdaChen/gpu-mpi-pytorch/blog/master/001.png)
   
 - 3。vision要和pytorch匹配
  
- ![vison和pytorch版本对照表](https://github.com/HongdaChen/gpu-mpi-pytorch/001.png)
+ ![vison和pytorch版本对照表](https://github.com/HongdaChen/gpu-mpi-pytorch/blog/master/002.png)
 
 - 4。由于从github下载特别慢，所以选择的是gitee.com的镜像，很快。同时推荐gitee.com的git教程。
 
