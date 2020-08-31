@@ -105,6 +105,16 @@ export CUDNN_LIB_DIR="/usr/local/cuda/lib64/"
 sudo apt install gcc-6 g++-6 gcc-6-multilib g++-6-multilib
 ```
 
+> ubuntu16.04如果安装不了，可以尝试以下方法
+
+
+```
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt-get update
+sudo apt-get install gcc-6 g++-6
+```
+
+
 设置权重：
 
 ```
